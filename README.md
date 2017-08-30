@@ -84,8 +84,7 @@ KT Theater:
   Encoding  : UNKNOWN
   Code      : 490ACFEF (50 bits)
 
-Power On:
-
+  Power On:
   Encoding  : UNKNOWN
   Code      : 17670E53 (50 bits)
 
