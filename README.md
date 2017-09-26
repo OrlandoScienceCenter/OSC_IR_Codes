@@ -110,4 +110,7 @@ EI Media Player:
   Play/Pause:
     Encoding  : NEC
     Code      : 10EF18E7 (32 bits)
+  VGA Output Select:
+    Encoding  : NEC
+    Code      : 10EF3AC5 (32 bits)
 */
